@@ -1,0 +1,148 @@
+[
+  {
+    "category": "Groceries",
+    "items": [
+      { "name": "Loaf of bread", "price_usd": 2.50 },
+      { "name": "Gallon of milk", "price_usd": 3.00 },
+      { "name": "Dozen eggs", "price_usd": 2.00 },
+      { "name": "1 lb of chicken breast", "price_usd": 4.00 },
+      { "name": "1 lb of ground beef", "price_usd": 5.00 },
+      { "name": "1 lb of apples", "price_usd": 1.50 },
+      { "name": "1 lb of bananas", "price_usd": 0.60 },
+      { "name": "1 lb of potatoes", "price_usd": 0.80 },
+      { "name": "Box of cereal", "price_usd": 3.50 },
+      { "name": "Bottle of water (16 oz)", "price_usd": 1.00 },
+      { "name": "1 lb of rice", "price_usd": 1.20 },
+      { "name": "1 lb of pasta", "price_usd": 1.00 },
+      { "name": "1 lb of cheese", "price_usd": 5.00 },
+      { "name": "Jar of peanut butter", "price_usd": 2.50 },
+      { "name": "Can of soda", "price_usd": 0.75 },
+      { "name": "Chocolate bar", "price_usd": 1.00 },
+      { "name": "Bag of chips", "price_usd": 2.00 },
+      { "name": "Bottle of cooking oil (1 liter)", "price_usd": 4.00 },
+      { "name": "Jar of tomato sauce", "price_usd": 2.00 },
+      { "name": "Bottle of wine", "price_usd": 10.00 }
+    ]
+  },
+  {
+    "category": "Electronics",
+    "items": [
+      { "name": "Smartphone (mid-range)", "price_usd": 500.00 },
+      { "name": "Laptop (basic model)", "price_usd": 700.00 },
+      { "name": "Tablet", "price_usd": 300.00 },
+      { "name": "Smartwatch", "price_usd": 200.00 },
+      { "name": "Wireless headphones", "price_usd": 150.00 },
+      { "name": "42-inch LED TV", "price_usd": 400.00 },
+      { "name": "Gaming console", "price_usd": 400.00 },
+      { "name": "External hard drive (1TB)", "price_usd": 60.00 },
+      { "name": "Digital camera", "price_usd": 250.00 },
+      { "name": "Bluetooth speaker", "price_usd": 50.00 }
+    ]
+  },
+  {
+    "category": "Clothing",
+    "items": [
+      { "name": "Men's jeans", "price_usd": 40.00 },
+      { "name": "Women's jeans", "price_usd": 50.00 },
+      { "name": "T-shirt", "price_usd": 15.00 },
+      { "name": "Hoodie", "price_usd": 30.00 },
+      { "name": "Sneakers", "price_usd": 60.00 },
+      { "name": "Dress shoes", "price_usd": 80.00 },
+      { "name": "Dress", "price_usd": 70.00 },
+      { "name": "Jacket", "price_usd": 100.00 },
+      { "name": "Socks (pack of 6 pairs)", "price_usd": 12.00 },
+      { "name": "Underwear (pack of 3)", "price_usd": 15.00 }
+    ]
+  },
+  {
+    "category": "Household Items",
+    "items": [
+      { "name": "Bath towel", "price_usd": 10.00 },
+      { "name": "Bed sheet set", "price_usd": 40.00 },
+      { "name": "Pillow", "price_usd": 20.00 },
+      { "name": "Vacuum cleaner", "price_usd": 100.00 },
+      { "name": "Blender", "price_usd": 50.00 },
+      { "name": "Coffee maker", "price_usd": 30.00 },
+      { "name": "Microwave oven", "price_usd": 80.00 },
+      { "name": "Toaster", "price_usd": 20.00 },
+      { "name": "Iron", "price_usd": 25.00 },
+      { "name": "Desk lamp", "price_usd": 15.00 }
+    ]
+  },
+  {
+    "category": "Personal Care",
+    "items": [
+      { "name": "Toothpaste", "price_usd": 3.00 },
+      { "name": "Toothbrush", "price_usd": 2.00 },
+      { "name": "Shampoo", "price_usd": 5.00 },
+      { "name": "Soap (bar)", "price_usd": 1.00 },
+      { "name": "Deodorant", "price_usd": 4.00 },
+      { "name": "Razor pack", "price_usd": 10.00 },
+      { "name": "Pack of tissues", "price_usd": 2.00 },
+      { "name": "Sunscreen", "price_usd": 8.00 },
+      { "name": "Hand sanitizer", "price_usd": 2.00 },
+      { "name": "Hairbrush", "price_usd": 5.00 }
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "items": [
+      { "name": "Movie ticket", "price_usd": 12.00 },
+      { "name": "Paperback book", "price_usd": 10.00 },
+      { "name": "Video game", "price_usd": 60.00 },
+      { "name": "Streaming service (monthly subscription)", "price_usd": 10.00 },
+      { "name": "Concert ticket", "price_usd": 50.00 },
+      { "name": "Board game", "price_usd": 25.00 },
+      { "name": "Museum admission", "price_usd": 15.00 },
+      { "name": "Monthly gym membership", "price_usd": 30.00 },
+      { "name": "Music album (digital download)", "price_usd": 10.00 },
+      { "name": "Magazine", "price_usd": 5.00 }
+    ]
+  },
+  {
+    "category": "Transportation",
+    "items": [
+      { "name": "Gasoline (per gallon)", "price_usd": 3.00 },
+      { "name": "Bicycle", "price_usd": 200.00 },
+      { "name": "Bus fare (one-way)", "price_usd": 2.00 },
+      { "name": "Taxi ride (5 miles)", "price_usd": 15.00 },
+      { "name": "Car (economy model)", "price_usd": 20000.00 },
+      { "name": "Monthly public transit pass", "price_usd": 50.00 },
+      { "name": "Airline ticket (domestic, one-way)", "price_usd": 150.00 },
+      { "name": "Rental car (per day)", "price_usd": 40.00 },
+      { "name": "Ride-sharing service (short trip)", "price_usd": 10.00 },
+      { "name": "Parking fee (per hour)", "price_usd": 2.00 }
+    ]
+  },
+  {
+    "category": "Miscellaneous",
+    "items": [
+      { "name": "Postage stamp", "price_usd": 0.55 },
+      { "name": "Notebook", "price_usd": 2.00 },
+      { "name": "Pen", "price_usd": 1.00 },
+      { "name": "Backpack", "price_usd": 30.00 },
+      { "name": "Umbrella", "price_usd": 15.00 },
+      { "name": "Coffee (medium cup)", "price_usd": 3.00 },
+      { "name": "Fast food meal", "price_usd": 7.00 },
+      { "name": "Restaurant meal (per person)", "price_usd": 20.00 },
+      { "name": "Hotel room (per night)", "price_usd": 100.00 },
+      { "name": "Pet food (20 lb bag)", "price_usd": 25.00 }
+    ]
+  },
+  {
+    "category": "Services",
+    "items": [
+      { "name": "Haircut", "price_usd": 20.00 },
+      { "name": "Dry cleaning (per item)", "price_usd": 5.00 },
+      { "name": "Massage (1 hour)", "price_usd": 60.00 },
+      { "name": "Car wash", "price_usd": 10.00 },
+      { "name": "Internet (monthly subscription)", "price_usd": 50.00 },
+      { "name": "Cell phone plan (monthly)", "price_usd": 40.00 },
+      { "name": "Electricity bill (monthly average)", "price_usd": 100.00 },
+      { "name": "Water bill (monthly average)", "price_usd": 30.00 },
+      { "name": "Gas bill (monthly average)", "price_usd": 50.00 },
+      { "name": "Garbage collection fee (monthly)", "price_usd": 20.00 }
+    ]
+  }
+]
+
