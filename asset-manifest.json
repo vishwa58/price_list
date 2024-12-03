@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/price_list/static/js/main.242d547e.js",
+    "index.html": "/price_list/index.html",
+    "main.242d547e.js.map": "/price_list/static/js/main.242d547e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.242d547e.js"
+  ]
+}
